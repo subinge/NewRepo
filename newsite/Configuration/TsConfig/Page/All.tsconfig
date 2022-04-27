@@ -1,0 +1,7 @@
+#
+# PageTS for newsite
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:newsite/Configuration/TsConfig/Page/RTE.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:newsite/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:newsite/Configuration/TsConfig/Page/TCEMAIN.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:newsite/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts.tsconfig">
